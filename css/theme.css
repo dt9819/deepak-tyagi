@@ -85,6 +85,12 @@ div#maincontent {
   margin-left: 15px;
 }
 
+@media screen and (max-width: 480px) {
+  .change-img{
+    max-width: 250px;
+    height: auto;
+  }
+}
 /* Header CSS*/
 #particles-js {
   position: absolute;

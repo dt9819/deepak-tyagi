@@ -329,11 +329,11 @@ header .intro-text .skills {
   margin: 0;
 }
 
-/*@media screen and (max-width: 480px) {
+@media screen and (max-width: 480px) {
   #portfolio{
-    margin-top: 100px;
+    margin-top: 20px;
   }
-}*/
+}
 /*.caption {
    box-shadow: 10px 10px 5px #888888;
 }*/

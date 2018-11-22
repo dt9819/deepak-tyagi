@@ -331,7 +331,7 @@ header .intro-text .skills {
 
 @media screen and (max-width: 480px) {
   #portfolio{
-    margin-top: 20px;
+    margin-top: 5px;
   }
 }
 /*.caption {
